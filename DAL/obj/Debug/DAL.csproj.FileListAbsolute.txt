@@ -1,0 +1,17 @@
+F:\nilniknit@gmail.com\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\nilniknit@gmail.com\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\bin\Debug\DAL.dll.config
+F:\nilniknit@gmail.com\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\bin\Debug\DAL.dll
+F:\nilniknit@gmail.com\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\bin\Debug\DAL.pdb
+F:\nilniknit@gmail.com\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\obj\Debug\DAL.dll
+F:\nilniknit@gmail.com\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\obj\Debug\DAL.pdb
+F:\nilniknit@gmail.com\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user104\Downloads\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\bin\Debug\DAL.dll.config
+C:\Users\user104\Downloads\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\bin\Debug\DAL.dll
+C:\Users\user104\Downloads\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\user104\Downloads\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\bin\Debug\BOL.dll
+C:\Users\user104\Downloads\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\bin\Debug\BOL.pdb
+C:\Users\user104\Downloads\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user104\Downloads\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user104\Downloads\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user104\Downloads\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\obj\Debug\DAL.dll
+C:\Users\user104\Downloads\DotNetEndModule_Preperation\EndModuleEcommApp1\DAL\obj\Debug\DAL.pdb

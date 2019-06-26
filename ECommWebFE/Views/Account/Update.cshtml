@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Update</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+
+<table>
+    <tr>
+        <td>Enter Id</td>
+        <td><input type="number" name="id" /></td>
+    </tr>
+    <tr>
+        <td>Enter old Password</td>
+        <td><input type="text" name="oldp"/></td>
+    </tr>
+    <tr>
+        <td>Enter New Password</td>
+        <td><input type="text" name="password"/></td>
+    </tr>
+    <tr>
+        <td>
+            <input type="submit" value="Change Password" />
+        </td>
+    </tr>
+</table>
+}
+
+<a href="~/Account/Login">Home</a>

@@ -1,0 +1,16 @@
+﻿@using BOL
+@{
+    ViewBag.Title = "Display";
+}
+
+<h2>Display</h2>
+
+@{
+    string name = "IACSD";
+    List<customer> customers = ViewData["customers"] as List<customer>;
+    foreach (customer cst in customers)
+    {
+        <p><i><b><u>@cst.Name</u></b></i>  </p>
+    }
+}
+<a href="~/Account/Login">Home</a>.
